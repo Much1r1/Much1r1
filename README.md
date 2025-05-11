@@ -1,5 +1,5 @@
 ## Hello, I'm Elvis👋
-BBIT student at Strathmore University
+BBIT student at Strathmore University </br>
 💻 Full-stack development with a passion for frontend polish and backend performance</br>
 ⚙️ Love automating boring stuff and building tools that make life easier</br>
 📚 Always learning — from the latest web frameworks to low-level systems internals</br>
