@@ -7,8 +7,14 @@ BBIT student at Strathmore University </br>
 Languages:    Python, JavaScript, Bash, C++</br>
 Frameworks:   Node.js, React, Tailwind, Express</br>
 Tools:        Linux, Git, Docker</br>
+Cloud:        AWS
 Specialties:  Full-stack dev, automation</br>
 
+## Projects
+Car Rental App
+Recipe finder app
+Environment analyzer app
+Fundraising web app
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/po51ti0ns) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Elvis Kihara) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muchirielvis375@gmail.com) 
