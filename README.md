@@ -18,7 +18,7 @@ Fundraising web app</br>
 Incident Response Dashboard</br>
 
 ## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/po51ti0ns) </br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/p051ti0ns/) </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvis-muchiri-737135309?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMD6u7PzQT4eNqofuS7Miug%3D%3D) </br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muchirielvis375@gmail.com) </br>
 
