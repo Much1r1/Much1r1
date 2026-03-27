@@ -1,14 +1,14 @@
-## Hello, I'm Elvis👋
+## Hello, I'm Elvis Muchiri👋
 BBIT finalist at Strathmore University </br>
 💻 Full-stack development with a passion for frontend polish and backend performance</br>
 ⚙️ Love automating boring stuff and building tools that make life easier</br>
 📚 Always learning — from the latest web frameworks to low-level systems internals</br>
 ## Skills
-Languages:    Python, JavaScript, Bash, C++</br>
+Languages:    Python, JavaScript, Bash, C++, TypeScrpt</br>
 Frameworks:   Node.js, React, Tailwind, Express</br>
 Tools:        Linux, Git, Docker</br>
 Cloud:        AWS
-Specialties:  Full-stack dev, automation</br>
+Specialties:  Full-stack dev, automation, QA</br>
 
 ## Projects
 Car Rental App</br>
@@ -18,7 +18,7 @@ Fundraising web app</br>
 Incident Response Dashboard</br>
 
 ## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/p051ti0ns/) </br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/much1ri/) </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvis-muchiri-737135309?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMD6u7PzQT4eNqofuS7Miug%3D%3D) </br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](muchirielvis375@gmail.com) </br>
 
