@@ -3,6 +3,7 @@ BBIT finalist at Strathmore University </br>
 💻 Full-stack development with a passion for frontend polish and backend performance</br>
 ⚙️ Love automating boring stuff and building tools that make life easier</br>
 📚 Always learning — from the latest web frameworks to low-level systems internals</br>
+🧑🏽‍💻 QA automation engineer
 ## Skills
 Languages:    Python, JavaScript, Bash, C++, TypeScrpt</br>
 Frameworks:   Node.js, React, Tailwind, Express</br>
