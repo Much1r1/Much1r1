@@ -1,22 +1,22 @@
 ## Hello, I'm Elvis Muchiri👋
 BBIT finalist at Strathmore University </br>
-💻 Full-stack development with a passion for frontend polish and backend performance</br>
+💻 Full-stack developer with a passion for frontend polish and backend performance</br>
 ⚙️ Love automating boring stuff and building tools that make life easier</br>
 📚 Always learning — from the latest web frameworks to low-level systems internals</br>
 🧑🏽‍💻 QA automation engineer
 ## Skills
 Languages:    Python, JavaScript, Bash, C++, TypeScrpt, Rust</br>
 Frameworks:   Node.js, React, Tailwind, Express</br>
-Tools:        Linux, Git, Docker, ClickHouse</br>
+Tools:        Linux, Git, Docker, ClickHouse, Tinybird</br>
 Cloud:        AWS
-Specialties:  Full-stack dev, automation, QA</br>
+Specialties:  Full-stack dev, automation, QA, AI</br>
 
 ## Projects
-Car Rental App</br>
-Recipe finder app</br>
-Environment analyzer app</br>
+Personal PA Telegram bot</br>
+Ai Powered incident dashboard</br>
+AI Powered food decision system</br>
 Fundraising web app</br>
-Incident Response Dashboard</br>
+Project Kijiji</br>
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/much1ri/) </br>
