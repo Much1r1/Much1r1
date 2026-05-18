@@ -11,7 +11,7 @@ Tools:        Linux, Git, Docker, ClickHouse, Tinybird</br>
 Cloud:        AWS</br>
 Specialties:  Full-stack dev, automation, QA, GenAI</br>
 
-## Projects
+## Recent Projects
 Personal PA Telegram bot</br>
 Ai Powered incident dashboard</br>
 AI Powered food decision system</br>
