@@ -8,7 +8,7 @@ BBIT finalist at Strathmore University </br>
 Languages:    Python, JavaScript, Bash, C++, TypeScrpt, Rust</br>
 Frameworks:   Node.js, React, Tailwind, Express</br>
 Tools:        Linux, Git, Docker, ClickHouse, Tinybird</br>
-Cloud:        AWS</br>
+Cloud:        AWS, Azure</br>
 Specialties:  Full-stack dev, automation, QA, GenAI</br>
 
 ## Recent Projects
