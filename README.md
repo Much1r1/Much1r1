@@ -1,4 +1,4 @@
-## Hello, I'm Elvis Muchiri👋
+## Hi, I'm Elvis Muchiri👋
 BBIT finalist at Strathmore University </br>
 💻 Full-stack developer with a passion for frontend polish and backend performance</br>
 ⚙️ Love automating boring stuff and building tools that make life easier</br>
