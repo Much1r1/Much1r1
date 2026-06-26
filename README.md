@@ -12,6 +12,7 @@ Frameworks:   Node.js, React, Tailwind, Express</br>
 Tools:        Linux, Git, Docker, ClickHouse, Tinybird</br>
 Cloud:        AWS, Azure</br>
 Specialties:  Full-stack dev, automation, QA, GenAI</br>
+AI Engineering: Jupyter Notebook
 
 ## Recent Projects
 Personal PA Telegram bot</br>
