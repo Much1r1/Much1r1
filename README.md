@@ -33,9 +33,10 @@ Project Kijiji</br>
 # 📊 GitHub Stats:
 <p align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=Much1r1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> </p> <p align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Much1r1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Much1r1&theme=tokyonight&hide_border=true" /> </p>
 
-### ⏱️ WakaTime Weekly Stats
+### ⏱️ WakaTime Stats
+
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=Much1r1&theme=tokyonight&hide_border=true" />
+  <img src="https://wakatime.com/badge/user/e334ad3c-229a-4702-b454-cb5d65d2687d.svg" />
 </p>
 
 ### ✍️ Random Dev Quotes
