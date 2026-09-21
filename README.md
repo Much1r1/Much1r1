@@ -41,5 +41,5 @@ Project Kijiji</br>
 [![](https://visitcount.itsvg.in/api?id=Much1r1&icon=10&color=8)](https://visitcount.itsvg.in)
 
 
-<p align="center"><i>Let's connect — open to ideas, collaboration, and interesting problems.</i></p>
+<p align="center"><i>Let's connect ; open to ideas, collaboration, and interesting problems.</i></p>
 -->
