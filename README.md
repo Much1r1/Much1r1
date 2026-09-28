@@ -4,7 +4,7 @@ BBIT graduate at Strathmore University </br>
 ⚙️ Love automating boring stuff and building tools that make life easier</br>
 📚 Always learning, from the latest web frameworks to low-level systems internals</br>
 🧑🏽‍💻 QA automation engineer </br>
-AI Engineer </br>
+🤖AI Engineer </br>
 
 ## Skills
 Languages:    Python, JavaScript, Bash, C++, TypeScrpt, Rust</br>
